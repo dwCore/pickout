@@ -1,0 +1,20 @@
+{
+  "name": "@dwcore/pickout",
+  "version": "0.1.1",
+  "description": "Find the word boundaries from a given position within a string.",
+  "contributors": [
+    "Jared Rice Sr. <jared@dwebs.io>",
+    "Distributed Webs Project, LLC. <labs@distributedwebs.org>"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
